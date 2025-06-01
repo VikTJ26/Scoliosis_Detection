@@ -1,2 +1,4 @@
 # ScoliosisDetection
 Scoliosis Detection project uses a Convolutional Neural Network (CNN) model to automatically detect scoliosis from spinal X-ray images, aiming to support early diagnosis and timely intervention.
+
+Scoliosis is a medical condition characterized by an abnormal curvature of the spine, often detected through spinal X-rays. Early identification is critical for effective treatment and management. This project leverages machine learning, specifically a Convolutional Neural Network (CNN), to accurately detect and classify scoliosis in spinal X-ray images. The CNN model is trained using labeled medical imaging data to distinguish between normal and scoliotic spinal conditions with high accuracy. By automating this diagnostic process, the system supports medical professionals in early detection, potentially improving patient outcomes through prompt and targeted interventions.
